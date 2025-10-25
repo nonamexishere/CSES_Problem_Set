@@ -1,1 +1,5 @@
 .vscode/*
+*/.cph
+*/*.bin
+*/exes
+*/output
